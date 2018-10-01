@@ -1,0 +1,14 @@
+C:\Users\Don Standard User\source\repos\Geometric_Layouts\Geometric_Layouts\bin\Debug\netcoreapp2.1\Geometric_Layouts.deps.json
+C:\Users\Don Standard User\source\repos\Geometric_Layouts\Geometric_Layouts\bin\Debug\netcoreapp2.1\Geometric_Layouts.runtimeconfig.json
+C:\Users\Don Standard User\source\repos\Geometric_Layouts\Geometric_Layouts\bin\Debug\netcoreapp2.1\Geometric_Layouts.runtimeconfig.dev.json
+C:\Users\Don Standard User\source\repos\Geometric_Layouts\Geometric_Layouts\bin\Debug\netcoreapp2.1\Geometric_Layouts.dll
+C:\Users\Don Standard User\source\repos\Geometric_Layouts\Geometric_Layouts\bin\Debug\netcoreapp2.1\Geometric_Layouts.pdb
+C:\Users\Don Standard User\source\repos\Geometric_Layouts\Geometric_Layouts\obj\Debug\netcoreapp2.1\Geometric_Layouts.csprojAssemblyReference.cache
+C:\Users\Don Standard User\source\repos\Geometric_Layouts\Geometric_Layouts\obj\Debug\netcoreapp2.1\Geometric_Layouts.csproj.CoreCompileInputs.cache
+C:\Users\Don Standard User\source\repos\Geometric_Layouts\Geometric_Layouts\obj\Debug\netcoreapp2.1\Geometric_Layouts.RazorAssemblyInfo.cache
+C:\Users\Don Standard User\source\repos\Geometric_Layouts\Geometric_Layouts\obj\Debug\netcoreapp2.1\Geometric_Layouts.RazorAssemblyInfo.cs
+C:\Users\Don Standard User\source\repos\Geometric_Layouts\Geometric_Layouts\obj\Debug\netcoreapp2.1\Geometric_Layouts.AssemblyInfoInputs.cache
+C:\Users\Don Standard User\source\repos\Geometric_Layouts\Geometric_Layouts\obj\Debug\netcoreapp2.1\Geometric_Layouts.AssemblyInfo.cs
+C:\Users\Don Standard User\source\repos\Geometric_Layouts\Geometric_Layouts\obj\Debug\netcoreapp2.1\Geometric_Layouts.RazorTargetAssemblyInfo.cache
+C:\Users\Don Standard User\source\repos\Geometric_Layouts\Geometric_Layouts\obj\Debug\netcoreapp2.1\Geometric_Layouts.dll
+C:\Users\Don Standard User\source\repos\Geometric_Layouts\Geometric_Layouts\obj\Debug\netcoreapp2.1\Geometric_Layouts.pdb
